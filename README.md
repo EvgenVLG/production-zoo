@@ -49,3 +49,10 @@ Rottweiler/watchdog recovery is intentionally omitted from v0.1 until its privat
 ## Status
 
 Candidate, not yet a public release. License and clean-room gates remain pending.
+
+## Related projects
+
+- [The Nest](https://github.com/EvgenVLG/the-nest-runtime) — deterministic environment authority and orchestration.
+- [Marinka](https://github.com/EvgenVLG/marinka-assistant) — portable personal AI assistant runtime.
+
+These are separate repositories by design. Production Zoo is the engineering system used to build and verify systems like them; it is not a runtime dependency of either project.
