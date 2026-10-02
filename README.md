@@ -113,6 +113,12 @@ npm run demo
 
 The public beta demonstrates the control mechanics without requiring paid model access or exposing private task history, credentials, household data or raw development sessions.
 
+## October 2026 update
+
+Recent work continues to harden reviewer/tool boundaries and evidence quality. A new case study documents a real failure mode where a read-only reviewer was accidentally made blind to current external evidence, plus the permission fix and canary verification:
+
+- [Read-only should not mean blind](docs/case-studies/read-only-reviewer-not-blind.md)
+
 ## Failure-driven design
 
 The architecture was shaped by failures, not only by successful demos.
