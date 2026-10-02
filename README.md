@@ -1,5 +1,7 @@
 # Production Zoo
 
+> [Engineering portfolio map](https://github.com/EvgenVLG/test-rep) - quick recruiter-facing index of the public projects and what each one demonstrates.
+
 **A human-owned, controlled multi-model engineering production system.**
 
 **Public beta: v0.1**
